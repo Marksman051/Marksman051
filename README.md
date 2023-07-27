@@ -1,5 +1,7 @@
 ### Opa! eu sou o Marcos vitor 🤙🏻
-
+buscando aprendizado e um futuro melhor para mim e todos!<br>
+-Atualmente estudante tec.TI<br>
+-Futuro :  faculdade de TI
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marksman051&Show_icons=true&theme=onedark)
 
