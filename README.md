@@ -1,16 +1,20 @@
-### Hi there 👋
+### Opa! eu sou o Marcos vitor 🤙🏻
 
-<!--
-**Marksman051/Marksman051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marksman051&Show_icons=true&theme=onedark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Gmail]( 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?pli=1#inbox?compose=jrjtXGkPVrTrbGKLrhRZdvNTwNKxlRnlCDbpxLgTXFwTQQcpTpWvwPrGQgTMVLjgpGlljDWS)
+
+[![Whatsapp]( 	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https:wa.me/+5586981248848)
+
+### Tecnologias 🤖
+
+<div style="display : inline_block"><br/>
+<img align= "center" alt= " Java " src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+<img align= "center" alt= " MYSQL " src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+<img align= "center" alt= " MONGODB " src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+</div><br/>
+
+### Evoluindo ao menos 1% ao dia, e por anor evoluir 365%++ 😎
+
