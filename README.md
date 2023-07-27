@@ -16,5 +16,5 @@
 <img align= "center" alt= " MONGODB " src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 </div><br/>
 
-### Evoluindo ao menos 1% ao dia, e por anor evoluir 365%++ 😎
+### Evoluindo ao menos 1% ao diA e por anor, evoluir 365%++ 😎
 
