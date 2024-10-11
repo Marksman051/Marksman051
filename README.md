@@ -16,5 +16,4 @@ buscando aprendizado e um futuro melhor para mim e todos!<br>
 <img align= "center" alt= " MYSQL " src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img align= "center" alt= " MONGODB " src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 </div><br/>
-### Evoluindo ao menos 1% ao diA e por anor, evoluir 365%++ 😎
 
