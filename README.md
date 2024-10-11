@@ -8,7 +8,6 @@ buscando aprendizado e um futuro melhor para mim e todos!<br>
 
 [![Gmail]( 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?pli=1#inbox?compose=jrjtXGkPVrTrbGKLrhRZdvNTwNKxlRnlCDbpxLgTXFwTQQcpTpWvwPrGQgTMVLjgpGlljDWS)
 
-[![Whatsapp]( 	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https:wa.me/+5586981248848)
 
 ### Tecnologias 🤖
 
